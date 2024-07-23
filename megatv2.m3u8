@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.anystreamrectv3.live/live/atv1.m3u8
