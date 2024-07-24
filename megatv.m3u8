@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
+https://fl1002.bozztv.com/ssh101/megasmart020/tracks-v1a1/mono.m3u8
 https://live.euromediacenter.com/teleontv/tracks-v1a1/mono.m3u8
 
 
