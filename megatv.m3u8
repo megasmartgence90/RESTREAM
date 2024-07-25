@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
+#EXT-X-STREAM-INF:BANDWIDTH=30000
 https://tv.movielab.pro/942/tracks-v1a1/mono.m3u8?token=a975dbf24b8bc35f4f6ab2833c56927f72d208b2-de70711bd707fd6fea6cd5a3008ea135-1721970746-1721884346
 https://fl1002.bozztv.com/ssh101/mega022/tracks-v1a1/mono.m3u8
