@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4400000,RESOLUTION=1280x720,CODECS="avc1.42e00a,mp4a.40.2"
+https://ssh101-fl.bozztv.com/ssh101/mega022/index.m3u8
+
 https://kanal65.interweb.com.tr:3669/hybrid/play.m3u8
 
