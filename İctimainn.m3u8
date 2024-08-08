@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2170000,BANDWIDTH=2710000,RESOLUTION=1048x576,FRAME-RATE=25.000,CODECS="avc1.64001e",CLOSED-CAPTIONS=NONE
-https://node19.connect.az:9081/tv/live/chunks.m3u8
+https://node19.connect.az:9081/tv/live/tracks-v1a1/mono.m3u8
