@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
+#EXT-X-MEDIA-SEQUENCE:0
 https://node19.connect.az:9081/tv/live/playlist.m3u8
