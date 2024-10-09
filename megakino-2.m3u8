@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4096000
-http://94.20.21.42:80/storage/movie/22/22054/video.mp4
+https://94.20.21.42:80/storage/movie/22/22054/video.mp4
