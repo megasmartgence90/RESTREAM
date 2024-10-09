@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-https://cdn.dzeninfra.com/vod/converted-video/vod-content/28/77/70/95/86/44/62/31/95/3/ff34cdb5-1c0a-44eb-a5b4-a3dd930fa14a/kaltura/desc_c1bf84bdf7c0f857bcb0df859fd29a4e/vQUwZ7G8mEU0/vw=1024,vh=554,fps=24.00,vbrt=823330,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=576p/index-f5-v1-a1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4096000
+https://cdn.txtstream2.xyz:443/hls/6/cdn22/Film/Death.On.The.Nile.2022s.mp4/index.m3u8?token=khZhKok5DEvwEhvFUT6Asw&tms=1728595169
