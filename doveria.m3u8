@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4096000
+http://player.smotrim.ru/iframe/stream/live_id/61125?43e=5.m3u8
