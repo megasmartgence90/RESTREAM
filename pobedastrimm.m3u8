@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+#EXT-X-#EXTVLCOPT:(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4096000
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
