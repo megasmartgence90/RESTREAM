@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:<n>
+EXT-X-PLAYLIST-TYPE
 #EXT-X-STREAM-INF:BANDWIDTH=400000,RESOLUTION=1280x720
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=H6DWyS4TJpFldcofmzebbg&e=1730447882&scheme=https
