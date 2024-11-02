@@ -1,1 +1,5 @@
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=4096000
+https://cdn.srectv1.xyz:443/live/bs1/index.m3u8?token=qntmkOsA9f2DuxVahjHR3Q&tms=1730209984
