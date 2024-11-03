@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:<n>
+#EXT-X-PLAYLIST-TYPE:m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1280x720
+https://river-1.rutube.ru/stream/genetta-320.m9.rutube.ru/DNpDDjceyZMG2IuZtX9zdA/1731272623/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
