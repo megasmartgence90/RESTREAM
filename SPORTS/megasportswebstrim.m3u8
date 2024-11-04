@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:<n>
 #EXT-X-PLAYLIST-TYPE:m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1280x720
-https://fener.macbedavatv18.site/hls/bein-sports-1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1280x1080
+https://river-1.rutube.ru/stream/genetta-518.ost.rutube.ru/27eggizuFPsYkSof3mJNLg/1731329376/9cc47f22f8b64783940a3be37a2c69e7/1080p_stream.m3u8
