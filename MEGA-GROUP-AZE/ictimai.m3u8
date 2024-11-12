@@ -2,4 +2,4 @@
 #EXT-X-VERSION:<n>
 #EXT-X-PLAYLIST-TYPE:m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1280x720
-https://node19.connect.az:9081/tv/live/chunks.m3u8?nimblesessionid=28180384
+https://node19.connect.az:9081/tv/live/chunks.m3u8
