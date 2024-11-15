@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=4096000
-https://cdn.srectv1.xyz:443/live/tabi/index.m3u8?token=V24GcL7e0UTeFs7hwV8UAQ&tms=1728633463
