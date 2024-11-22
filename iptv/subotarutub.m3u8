@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
 #EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1280x720
-http://46.174.83.66/Subbota/index.m3u8?token=test
+http://arbiter.bolshoe.tv/?path=abr2/super_sd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCA4OjAzOjE2IEFNJmhhc2hfdmFsdWU9QmtmYUErSFJTRUp0YWlpSzJtYjdCdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
