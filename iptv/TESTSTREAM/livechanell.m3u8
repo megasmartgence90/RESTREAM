@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=8800000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25,SUBTITLES="subs"
-https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+http://50.7.144.122:1935/livetv/atv:atv.stream/playlist.m3u8
