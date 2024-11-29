@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=8800000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25,SUBTITLES="subs"
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist.m3u8?md5=DY68io_gmMMhHqO3nKMazg&e=1732893958
+https://tv208.radyotelekom.com.tr:3513/hybrid/play.m3u8
