@@ -1,0 +1,5 @@
+curl --request GET \
+--url "https://api.github.com/user" \
+--header "Accept: application/vnd.github+json" \
+--header "Authorization: Bearer USER_ACCESS_TOKEN" \
+--header "X-GitHub-Api-Version: 2022-11-28"
