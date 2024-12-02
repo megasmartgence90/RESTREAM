@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=754857,VIDEO="3000kbs",AUDIO="aac",CODECS="avc1.42e01e,mp4a.40.2"
-https://tv208.radyotelekom.com.tr:3706/hybrid/play.m3u8
