@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.0,
-http://YOUR_SERVER_ADDRESS/segment1.ts
+http://185.129.1.242:80/aztv/mpegts
 #EXTINF:10.0,
-http://YOUR_SERVER_ADDRESS/segment2.ts
+http://185.129.1.242:80/aztv/mpegts
 #EXT-X-ENDLIST
