@@ -1,0 +1,6 @@
+git clone https://github.com/megasmartgence90/hls-stream.git
+cd hls-stream
+cp /path/to/your/stream.m3u8 .
+git add stream.m3u8
+git commit -m "Add HLS playlist"
+git push origin main
