@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-PLAYLIST-TYPE:event
 #EXT-X-STREAM-INF:BANDWIDTH=4096000,RESOLUTION=1280x720
-https://top1-cdnnew.newkso.ru/top1-cdn/mrn5B7M8LK/mono.m3u8
+https://live.eighty-eight.tv:8880/BS1C-1/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=03f8675dd7eb62f7e2bf9629fca5ee679f158c5c-ed59fb31dd3e3c24130daf7c5f5920d1-1747693379-1747682579
